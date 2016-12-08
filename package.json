@@ -1,0 +1,22 @@
+{
+  "name": "node-ava",
+  "version": "0.1.0",
+  "description": "Example using ava testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloudilicious/node-ava.git"
+  },
+  "author": "Sharon Chen <sharon.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cloudilicious/node-ava/issues"
+  },
+  "homepage": "https://github.com/Cloudilicious/node-ava#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
